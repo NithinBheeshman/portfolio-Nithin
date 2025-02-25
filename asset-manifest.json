@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio-Nithin/static/css/main.db6f0745.chunk.css",
+    "main.js": "/portfolio-Nithin/static/js/main.a53c1f3a.chunk.js",
+    "main.js.map": "/portfolio-Nithin/static/js/main.a53c1f3a.chunk.js.map",
+    "runtime-main.js": "/portfolio-Nithin/static/js/runtime-main.9478e9c0.js",
+    "runtime-main.js.map": "/portfolio-Nithin/static/js/runtime-main.9478e9c0.js.map",
+    "static/css/2.d64471e2.chunk.css": "/portfolio-Nithin/static/css/2.d64471e2.chunk.css",
+    "static/js/2.745d4e72.chunk.js": "/portfolio-Nithin/static/js/2.745d4e72.chunk.js",
+    "static/js/2.745d4e72.chunk.js.map": "/portfolio-Nithin/static/js/2.745d4e72.chunk.js.map",
+    "index.html": "/portfolio-Nithin/index.html",
+    "precache-manifest.3a768d428ed03f52ab223cd17cdf1e6b.js": "/portfolio-Nithin/precache-manifest.3a768d428ed03f52ab223cd17cdf1e6b.js",
+    "service-worker.js": "/portfolio-Nithin/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/portfolio-Nithin/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.db6f0745.chunk.css.map": "/portfolio-Nithin/static/css/main.db6f0745.chunk.css.map",
+    "static/js/2.745d4e72.chunk.js.LICENSE.txt": "/portfolio-Nithin/static/js/2.745d4e72.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9478e9c0.js",
+    "static/css/2.d64471e2.chunk.css",
+    "static/js/2.745d4e72.chunk.js",
+    "static/css/main.db6f0745.chunk.css",
+    "static/js/main.a53c1f3a.chunk.js"
+  ]
+}
