@@ -1,9 +1,9 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "French",
+      "description": "👋🏽 Je suis Nithin, un développeur full-stack spécialisé dans React, Django, et les solutions cloud avec AWS. Je me spécialise dans la création d'applications évolutives et sécurisées et j'excelle dans les environnements Agile. Fort de mon expérience en bases de données, CI/CD et blockchain, je suis passionné par la création de logiciels efficaces et centrés sur l'utilisateur qui favorisent l'innovation et la performance. 🤙🏽",
       "section_name": {
-        "about": "O mnie",
+        "about": "À propos de moi",
         "projects": "Projekty",
         "skills": "Umiejętności",
         "experience": "Doświadczenie"

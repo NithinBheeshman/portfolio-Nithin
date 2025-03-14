@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "10feec4dd98732b85bbc0cf17db32a2e",
+    "revision": "f92fd3deede6e28429adaa8f213c5ac9",
     "url": "/portfolio-Nithin/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio-Nithin/static/css/2.d64471e2.chunk.css"
   },
   {
-    "revision": "567b79ded998ae30c4ad",
+    "revision": "bd2758aaa480681c53e9",
     "url": "/portfolio-Nithin/static/css/main.db6f0745.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio-Nithin/static/js/2.745d4e72.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "567b79ded998ae30c4ad",
-    "url": "/portfolio-Nithin/static/js/main.a53c1f3a.chunk.js"
+    "revision": "bd2758aaa480681c53e9",
+    "url": "/portfolio-Nithin/static/js/main.e1ae3637.chunk.js"
   },
   {
     "revision": "5714557bd5755c2411e7",

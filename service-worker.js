@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/portfolio-Nithin/precache-manifest.3a768d428ed03f52ab223cd17cdf1e6b.js"
+  "/portfolio-Nithin/precache-manifest.3661b51f019c822bbfa4d7c16551e13e.js"
 );
 
 self.addEventListener('message', (event) => {
